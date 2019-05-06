@@ -1,0 +1,5 @@
+# baseurl: https://www.khow.org
+permalink: /blog-cn/:year/:month/:day/:title  
+highlighter: true
+date_format: "ordinal"
+# subscribe_rss: /atom.xml
