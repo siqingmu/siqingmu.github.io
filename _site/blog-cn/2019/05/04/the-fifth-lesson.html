@@ -1,9 +1,9 @@
 <html>
 <head>
 
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
 <link href="https://www.khow.org/main.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="https://www.khow.org/images/Yc.jpg">
+<link rel="shortcut icon" href="https://www.khow.org/images/favicon.png">
 
 <title>第 5 課</title>
 
@@ -21,7 +21,12 @@
 </head>
 　　
 <body>
-
+  <script>
+    if (/mobile/i.test(navigator.userAgent) || /android/i.test(navigator.userAgent))
+    {
+        document.body.classList.add('mobile');
+    }
+  </script>
 <h2>第 5 課</h2>
 
 <p>每个人小时候心里都是没有权威的，就像每个人小时候也都不相信广告一样。可是权威就像广告，它埋伏在你的潜意识里。听一遍不信，听两遍不信，……，直到一千遍的时候，它忽然开始起作用了，而且这作用越来越强。</p>

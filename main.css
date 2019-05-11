@@ -8,6 +8,10 @@ body {
     border: 1px solid LightGrey;
 }
 
+body.mobile {
+    font-size: 36px;
+}
+
 H1 {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
 }
