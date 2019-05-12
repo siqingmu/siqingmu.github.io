@@ -10,6 +10,9 @@ body {
 
 body.mobile {
     font-size: 36px;
+    margin: 5% 5% 5% 5%;
+    padding: 2% 5% 5% 5%;
+    width: 80%;
 }
 
 H1 {
