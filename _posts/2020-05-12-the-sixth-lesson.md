@@ -3,6 +3,8 @@ layout: default
 title: 第 6 課
 ---
 
+[TOC]
+
 ### 練習B
 
 #### 例：ラジオをきます
