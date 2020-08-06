@@ -9,7 +9,7 @@ title: 英语网站推荐
 - [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
 - [Urban Dictionary](https://www.urbandictionary.com/)
 - [voicetube](https://tw.voicetube.com/)
-- [Language Learning with Youtube BETA][https://chrome.google.com/webstore/detail/language-learning-with-yo/jkhhdcaafjabenpmpcpgdjiffdpmmcjb?hl=en]
+- [Language Learning with Youtube BETA](https://chrome.google.com/webstore/detail/language-learning-with-yo/jkhhdcaafjabenpmpcpgdjiffdpmmcjb?hl=en)
 - [merriam webster](https://www.merriam-webster.com/)
 - [ludwig](https://ludwig.guru/)
 - [yahoo](https://tw.dictionary.search.yahoo.com/)
