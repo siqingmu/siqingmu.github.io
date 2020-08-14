@@ -15,3 +15,7 @@ title: 英语网站推荐
 - [yahoo](https://tw.dictionary.search.yahoo.com/)
 - [wordreference](https://forum.wordreference.com/)
 - [youglish](https://youglish.com/)
+- [https://freakonomics.com/](https://freakonomics.com/)
+- [thisamericanlife](https://www.thisamericanlife.org/)
+- [http://www.tertioenglish.com/english](http://www.tertioenglish.com/english)
+- [https://www.lttc.ntu.edu.tw/link_index.htm#AMenu5](https://www.lttc.ntu.edu.tw/link_index.htm#AMenu5)
